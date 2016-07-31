@@ -10,10 +10,10 @@
 }
 
 .line2 .line21 {
-    width: 33.2%;
+    width: 33.7%;
     height: 100%;
     /*border: solid 1px blue;*/
-    margin-left: 0.4%;
+    /*margin-left: 0.4%;*/
     float: left;
     display: block;
 }
@@ -190,7 +190,7 @@
     margin-right: 5%;
 }
 .line23-2{
-    line-height: 190%;
+    line-height: 235%;
     padding-top: 2%;
 }
 #tabs23-1 span{

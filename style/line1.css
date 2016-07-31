@@ -18,10 +18,10 @@
   .line1 .active {
     background-color: white; }
   .line1 .line11 {
-    width: 33.2%;
+    width: 33.7%;
     height: 100%;
     /*border: solid 1px blue;*/
-    margin-left: 0.4%;
+    /*margin-left: 0.4%;*/
     float: left;
     display: block; }
   .line1 .line12 {
